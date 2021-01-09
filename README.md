@@ -1,7 +1,7 @@
 # BBC-news-scraper
 News Content Collect and Store That crawl articles on a news website bbc.com using a crawler framework Scrapy.  
 ## project details
-This project is done inspiring by a coding challenge of Insentia called Data Engineer Coding Challenge.
+This project is done inspiring by a coding challenge called Data Engineer Coding Challenge.
 The project demonstrates how to use Scrapy, a web crawling framework, to crawl a news website, store the data into Mongodb and retrieve data through API.
 
 
