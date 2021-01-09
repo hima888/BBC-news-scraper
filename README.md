@@ -14,7 +14,7 @@ The project demonstrates how to use Scrapy, a web crawling framework, to crawl a
 
 ## Execution steps
 1- execute the run ```activate.bat```.  
-2- execute command```cd bbctest```.  
+2- execute command ```cd bbctest```.  
 3- execute command ```scrapy crawl bbcteest```.  
 
 ## screens 
