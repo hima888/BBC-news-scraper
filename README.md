@@ -17,3 +17,6 @@ The project demonstrates how to use Scrapy, a web crawling framework, to crawl a
 2- execute command```cd bbctest```.  
 3- execute command ```scrapy crawl bbcteest```.  
 
+## screens 
+![db](./screens/s1.png)
+![website](./screens/s2.png)
