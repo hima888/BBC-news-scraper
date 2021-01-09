@@ -16,7 +16,6 @@ class NewsExtractor():
         for item in newsList:
             if query in item["headline"] or query in item["text"]:
                 result.append(item)
-        # result = self.collection.find({"text":query})
      
         return result
     
